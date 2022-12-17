@@ -6,7 +6,9 @@ using namespace std;
 
 int main(){
     int a = 1;
-    cout <<"nilai A : ";
-    cout << a << endl;
+    char nama[10] = "raihan";    
+
+    cout <<" Nama: ";
+    cout << nama << endl;
     return 0;
 }
