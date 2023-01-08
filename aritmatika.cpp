@@ -25,5 +25,9 @@ int main()
     cout << a << " : " << b << " = " << hasilBagi << endl;
 
     cin.get();
+    
+    
+    // TUGAS 
+    // MEMBUAT TAMBAH,  KURANG,  KALI,  BAGI UNTUK 3 DATA (10, 5, 2)
     return 0;
 }
